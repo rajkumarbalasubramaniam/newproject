@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32" started-at="2013-10-22T07:09:59Z" finished-at="2013-10-22T07:09:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32" started-at="2013-10-22T07:09:59Z" finished-at="2013-10-22T07:09:59Z">
+      <class name="test.Yahootest">
+        <test-method status="PASS" signature="connectdb()[pri:0, instance:test.Yahootest@120e4f9a]" name="connectdb" is-config="true" duration-ms="9" started-at="2013-10-22T12:39:59Z" finished-at="2013-10-22T12:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectdb -->
+        <test-method status="PASS" signature="testreceivemail()[pri:0, instance:test.Yahootest@120e4f9a]" name="testreceivemail" duration-ms="7" started-at="2013-10-22T12:39:59Z" finished-at="2013-10-22T12:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testreceivemail -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:test.Yahootest@120e4f9a]" name="openbrowser" is-config="true" duration-ms="0" started-at="2013-10-22T12:39:59Z" finished-at="2013-10-22T12:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:test.Yahootest@120e4f9a]" name="closebrowser" is-config="true" duration-ms="0" started-at="2013-10-22T12:39:59Z" finished-at="2013-10-22T12:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:test.Yahootest@120e4f9a]" name="openbrowser" is-config="true" duration-ms="0" started-at="2013-10-22T12:39:59Z" finished-at="2013-10-22T12:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="testsendmail()[pri:0, instance:test.Yahootest@120e4f9a]" name="testsendmail" duration-ms="1" started-at="2013-10-22T12:39:59Z" finished-at="2013-10-22T12:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsendmail -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:test.Yahootest@120e4f9a]" name="closebrowser" is-config="true" duration-ms="1" started-at="2013-10-22T12:39:59Z" finished-at="2013-10-22T12:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="shutdowndb()[pri:0, instance:test.Yahootest@120e4f9a]" name="shutdowndb" is-config="true" duration-ms="0" started-at="2013-10-22T12:39:59Z" finished-at="2013-10-22T12:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdowndb -->
+      </class> <!-- test.Yahootest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
